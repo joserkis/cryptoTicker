@@ -4,7 +4,7 @@ This is a tool to show the current cryptocurrency prices in a nice ticker format
 
 # Installation
 
-`cargo install --git https://github.com/coder543/cryptoticker`
+`cargo install --git https://github.com/joserkis/cryptoticker`
 
 # Usage
 
