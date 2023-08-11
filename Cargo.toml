@@ -1,0 +1,14 @@
+[package]
+authors = ["Josh Leverette <josh.leverette@utiliflex.com>"]
+name = "cryptoticker"
+version = "1.0.0"
+license = "MIT"
+
+[dependencies]
+app_dirs = "1.1.1"
+clap = "2.24.2"
+reqwest = "0.6.2"
+serde = "1.0.8"
+serde_derive = "1.0.8"
+serde_json = "1.0.2"
+time = "0.1.37"
